@@ -1,0 +1,15 @@
+# depslib dependency file v1.0
+1490026046 source:c:\users\swaraj\desktop\53_protected_members\main.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+
+1490026046 c:\users\swaraj\desktop\53_protected_members\mother.h
+
+1490026096 c:\users\swaraj\desktop\53_protected_members\daughter.h
+	"Mother.h"
+
+1490026046 source:c:\users\swaraj\desktop\53_protected_members\mother.cpp
+	"Mother.h"
+	<iostream>
+

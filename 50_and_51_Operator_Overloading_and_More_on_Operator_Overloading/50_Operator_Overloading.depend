@@ -1,0 +1,10 @@
+# depslib dependency file v1.0
+1490020712 source:c:\users\swaraj\desktop\50_and_51_operator_overloading_and_more_on_operator_overloading\sally.cpp
+	"Sally.h"
+
+1490020712 c:\users\swaraj\desktop\50_and_51_operator_overloading_and_more_on_operator_overloading\sally.h
+
+1490020825 source:c:\users\swaraj\desktop\50_and_51_operator_overloading_and_more_on_operator_overloading\main.cpp
+	<iostream>
+	"Sally.h"
+

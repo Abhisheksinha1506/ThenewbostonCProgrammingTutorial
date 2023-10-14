@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1490026803 source:c:\users\swaraj\desktop\54_derived_class_constructors_and_deconstructors\daughter.cpp
+	"Daughter.h"
+	<iostream>
+
+1490026803 c:\users\swaraj\desktop\54_derived_class_constructors_and_deconstructors\daughter.h
+	"Mother.h"
+
+1490026603 c:\users\swaraj\desktop\54_derived_class_constructors_and_deconstructors\mother.h
+
+1490026603 source:c:\users\swaraj\desktop\54_derived_class_constructors_and_deconstructors\mother.cpp
+	"Mother.h"
+	<iostream>
+
+1490026695 source:c:\users\swaraj\desktop\54_derived_class_constructors_and_deconstructors\main.cpp
+	<iostream>
+	"Mother.h"
+	"Daughter.h"
+
